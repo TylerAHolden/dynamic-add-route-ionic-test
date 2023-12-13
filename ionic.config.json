@@ -1,0 +1,7 @@
+{
+  "name": "dynamic-add-route-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
